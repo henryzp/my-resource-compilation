@@ -6,6 +6,7 @@
 - [如何阅读一份代码？](https://zhuanlan.zhihu.com/p/26222486)
 - [前后端分离开发模式的 mock 平台预研](https://github.com/CntChen/cntchen.github.io/issues/1) 
 - [那些年我们处理过的异步问题](https://github.com/dt-fe/weekly/issues/6)
+- [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3)
 
 ### web安全
 
@@ -18,6 +19,7 @@
 ### 移动端
 
 - [如何用原生 JS 实现手势解锁组件](https://www.h5jun.com/post/handlock-comp.html)
+- [移动端 Web 开发踩坑之旅](https://zhuanlan.zhihu.com/p/26141351)
 
 ### Vue
 
@@ -29,6 +31,7 @@
 - [next.js](https://github.com/zeit/next.js) : react同构渲染
 - [react生态体系](https://zhuanlan.zhihu.com/p/26270621)
 - [This is a demo based on react redux](https://github.com/HOUCe/react-redux-demo)
+- [理解 React，但不理解 Redux，该如何通俗易懂的理解 Redux](https://www.zhihu.com/question/41312576/answer/90493435)
 
 ### js学习资源
 
@@ -39,6 +42,7 @@
 
 - [对于CSS布局中CSS Grid Layout 和CSS Box Alignment两大模块有何看法？](https://www.zhihu.com/question/51426724/answer/150286267)
 - [欢迎你 Grid Layout](https://zhuanlan.zhihu.com/p/26259608)
+- [30 分钟学会 Flex 布局](https://zhuanlan.zhihu.com/p/25303493)
 
 ### npm包
 
@@ -60,5 +64,9 @@
 - [从Chrome源码看浏览器如何layout布局](http://www.renfed.com/2017/02/26/chrome-layout/)
 - [从Chrome源码看JS Object的实现](http://www.renfed.com/2017/04/04/chrome-object/)
 - [从Chrome源码看JS Array的实现](http://www.renfed.com/2017/04/16/chrome-js-array/)
+
+### 面试相关
+
+- [JavaScript 面试中常见算法问题详解](https://zhuanlan.zhihu.com/p/25308541)
 
 
