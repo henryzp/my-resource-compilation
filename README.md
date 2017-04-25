@@ -7,6 +7,7 @@
 - [前后端分离开发模式的 mock 平台预研](https://github.com/CntChen/cntchen.github.io/issues/1) 
 - [那些年我们处理过的异步问题](https://github.com/dt-fe/weekly/issues/6)
 - [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3)
+- [Chinese translation of the Github Help](https://github.com/waylau/github-help)
 
 ### web安全
 
@@ -24,13 +25,17 @@
 ### Vue
 
 - [vue-admin](https://github.com/taylorchen709/vue-admin) : admin template based on vuejs2 and element
+- [音乐播放器](https://github.com/microzz/vue-music-player)
+- [豆瓣电影wap端](https://github.com/xingbofeng/douban-movie)
 
 ### React
 
+- [antd-admin](https://github.com/zuiidea/antd-admin) : A admin dashboard application demo built upon Ant Design and Dva.js 
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload/) : Lazyload your Component, Image or anything matters the performance.
 - [next.js](https://github.com/zeit/next.js) : react同构渲染
 - [react生态体系](https://zhuanlan.zhihu.com/p/26270621)
 - [This is a demo based on react redux](https://github.com/HOUCe/react-redux-demo)
+- [react+redux+react-router实例](https://github.com/luozhihao/react-redux-demo)
 - [理解 React，但不理解 Redux，该如何通俗易懂的理解 Redux](https://www.zhihu.com/question/41312576/answer/90493435)
 
 ### js学习资源
@@ -50,6 +55,7 @@
 
 ### Node
 
+- [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 - [编写 Node.js Rest API 的 10 个最佳实践](https://zhuanlan.zhihu.com/p/25506654)
 
 ### Chrome DevTools 
