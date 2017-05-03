@@ -11,6 +11,8 @@
 - [React & Npm 组件库维护经验](https://github.com/ascoders/blog/issues/5)
 - [前端监控系统落地](https://zhuanlan.zhihu.com/p/26365046?group_id=842798394819874816)
 - [JavaScript 中错误堆栈处理](https://zhuanlan.zhihu.com/p/26637923)
+- [复杂单页应用的数据层设计](https://github.com/xufei/blog/issues/42)
+- [前端技术框架如何选型 以及如何在这个疯狂的前端世界混下去](https://zhuanlan.zhihu.com/p/26678543)
 
 ### web安全
 
@@ -51,6 +53,12 @@
 - [JavaScript-30 的中文练习指南](https://github.com/soyaine/JavaScript30)
 - [flow的使用入门](https://zhuanlan.zhihu.com/p/26204569)
 - [你真的会使用XMLHttpRequest吗？](https://segmentfault.com/a/1190000004322487)
+- [如何用 JavaScript 实现一个数组惰性求值库](https://zhuanlan.zhihu.com/p/26535479)
+
+### RxJs
+
+- [RxJS 入门指引和初步应用](https://zhuanlan.zhihu.com/p/25383159)
+- [40行代码带你入门RxJS](https://zhuanlan.zhihu.com/p/26147001)
 
 ### css相关
 
@@ -70,6 +78,10 @@
 - [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 - [编写 Node.js Rest API 的 10 个最佳实践](https://zhuanlan.zhihu.com/p/25506654)
 - [脚手架类的命令行工具用到了哪些技术?](https://www.zhihu.com/question/58406043/answer/159712819)
+
+### AR相关
+
+- [web-ar](https://github.com/brianZeng/web-ar)
 
 ### Python
 
