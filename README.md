@@ -13,6 +13,11 @@
 - [JavaScript 中错误堆栈处理](https://zhuanlan.zhihu.com/p/26637923)
 - [复杂单页应用的数据层设计](https://github.com/xufei/blog/issues/42)
 - [前端技术框架如何选型 以及如何在这个疯狂的前端世界混下去](https://zhuanlan.zhihu.com/p/26678543)
+- [支付宝前端构建工具的发展和未来的选择](https://github.com/pigcan/blog/issues/4)
+
+### 值得阅读的blog
+
+- [leehey's blog](https://github.com/lcxfs1991/blog)
 
 ### web安全
 
@@ -29,6 +34,7 @@
 
 ### Vue
 
+- [Vue源码注释版 及 Vue源码详细解析](https://github.com/Ma63d/vue-analysis)
 - [vue-admin](https://github.com/taylorchen709/vue-admin) : admin template based on vuejs2 and element
 - [音乐播放器](https://github.com/microzz/vue-music-player)
 - [豆瓣电影wap端](https://github.com/xingbofeng/douban-movie)
@@ -37,6 +43,7 @@
 
 - [antd-admin](https://github.com/zuiidea/antd-admin) : A admin dashboard application demo built upon Ant Design and Dva.js 
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload/) : Lazyload your Component, Image or anything matters the performance.
+- [仿卖座电影](https://github.com/cncp20/maizuo-react)
 - [next.js](https://github.com/zeit/next.js) : react同构渲染
 - [react生态体系](https://zhuanlan.zhihu.com/p/26270621)
 - [This is a demo based on react redux](https://github.com/HOUCe/react-redux-demo)
@@ -47,6 +54,11 @@
 - [拖拽排序](https://www.npmjs.com/package/react-sortable)
 - [百度 React 组件库](https://github.com/fex-team/fit) ： 可以学习一下思路，但不建议在项目中使用
 - [redux三重境](https://zhuanlan.zhihu.com/p/26485702)
+
+### webpack
+
+- [webpack2中文指南](https://doc.webpack-china.org/guides/get-started/)
+- [教你如何玩转webpack.DllPlugin](https://github.com/superpig/blog/issues/6)
 
 ### js学习资源
 
