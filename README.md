@@ -14,6 +14,11 @@
 - [复杂单页应用的数据层设计](https://github.com/xufei/blog/issues/42)
 - [前端技术框架如何选型 以及如何在这个疯狂的前端世界混下去](https://zhuanlan.zhihu.com/p/26678543)
 - [支付宝前端构建工具的发展和未来的选择](https://github.com/pigcan/blog/issues/4)
+- [精读民工叔单页数据流方案](https://zhuanlan.zhihu.com/p/26743163)
+- [你不知道的前端新特性](https://ppt.baomitu.com/d/84a42e3e#/)
+- [对 virtual-dom 的一些理解](https://zhuanlan.zhihu.com/p/25630842)
+- [那些入坑 React 前没有人会提醒你的事](https://github.com/dt-fe/weekly/issues/13)
+- [腾讯AlloyTeam正式发布omi-cli脚手架 - 创建网站无需任何配置](http://div.io/topic/2002)
 
 ### 值得阅读的blog
 
@@ -26,6 +31,8 @@
 ### API
 
 - [为什么你需要一个 mock server](https://github.com/ufologist/puer-mock/blob/master/why-your-need-a-mock-server.md)  
+- [hapi](https://hapijs.com/)
+- [hapi结合swagger](https://github.com/jzlxiaohei/hapi-demo/)
 
 ### 移动端
 
@@ -59,6 +66,8 @@
 
 - [webpack2中文指南](https://doc.webpack-china.org/guides/get-started/)
 - [教你如何玩转webpack.DllPlugin](https://github.com/superpig/blog/issues/6)
+- [webpack-code-splitting-demo](https://github.com/DrakeLeung/webpack-code-splitting-demo)
+- [Webpack 大法之 Code Splitting](https://zhuanlan.zhihu.com/p/26710831)
 
 ### js学习资源
 
@@ -66,6 +75,8 @@
 - [flow的使用入门](https://zhuanlan.zhihu.com/p/26204569)
 - [你真的会使用XMLHttpRequest吗？](https://segmentfault.com/a/1190000004322487)
 - [如何用 JavaScript 实现一个数组惰性求值库](https://zhuanlan.zhihu.com/p/26535479)
+- [探索JavaScript中的装饰器模式](https://zhuanlan.zhihu.com/p/26761381)
+- [10 个基于 JavaScript 的机器学习实例](https://zhuanlan.zhihu.com/p/26709518)
 
 ### RxJs
 
@@ -84,6 +95,9 @@
 
 - [minimist](https://github.com/substack/minimist) : parse argument options，譬如`node example/parse.js -a beep -b boop`
 - [fecs](https://github.com/ecomfe/fecs) : 基于 Node.js 的前端代码风格工具套件，包含对 JavaScript、CSS 与 HTML 的检查、修复及格式化。
+- [Create website with no build configuration - 创建网站无需任何配置](https://github.com/AlloyTeam/omi-cli) 
+- [Open and modern framework for building user interfaces - 开放现代的Web组件化框架](https://github.com/AlloyTeam/omi)
+
 
 ### Node
 
@@ -91,9 +105,10 @@
 - [编写 Node.js Rest API 的 10 个最佳实践](https://zhuanlan.zhihu.com/p/25506654)
 - [脚手架类的命令行工具用到了哪些技术?](https://www.zhihu.com/question/58406043/answer/159712819)
 
-### AR相关
+### AR VR相关
 
 - [web-ar](https://github.com/brianZeng/web-ar)
+- [react vr](https://facebook.github.io/react-vr/)
 
 ### Python
 
@@ -134,3 +149,7 @@
 ### 游记（想去的地方）
 
 - [九寨沟旅行全攻略](http://m.ruguoapp.com/messages/590826954d58730012557c0f)
+- [上海迪士尼全攻略](http://m.okjike.com/messages/5934e55602698c001271ab07)
+- [澳门美食推荐](http://m.okjike.com/messages/5934e2cfcba12400129e7bae)
+- [日本11天自由行游记，吃喝玩乐俱全的靠谱攻略](http://m.okjike.com/messages/5938a1957276aa0012da14ff)
+- [西安自由行全攻略](http://m.okjike.com/messages/59391cb314f92f00120b8b2f)
