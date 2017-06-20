@@ -19,6 +19,9 @@
 - [对 virtual-dom 的一些理解](https://zhuanlan.zhihu.com/p/25630842)
 - [那些入坑 React 前没有人会提醒你的事](https://github.com/dt-fe/weekly/issues/13)
 - [腾讯AlloyTeam正式发布omi-cli脚手架 - 创建网站无需任何配置](http://div.io/topic/2002)
+- [前端团队 Gulp & Webpack 工作流 迁移记](https://zhuanlan.zhihu.com/p/27355765)
+- [精读前端调试技巧](https://zhuanlan.zhihu.com/p/27334352)
+- [精读 React 高阶组件](https://zhuanlan.zhihu.com/p/27434557)
 
 ### 值得阅读的blog
 
@@ -48,6 +51,7 @@
 
 ### React
 
+- [React 中文版](http://wiki.jikexueyuan.com/project/react/)
 - [antd-admin](https://github.com/zuiidea/antd-admin) : A admin dashboard application demo built upon Ant Design and Dva.js 
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload/) : Lazyload your Component, Image or anything matters the performance.
 - [仿卖座电影](https://github.com/cncp20/maizuo-react)
@@ -61,6 +65,8 @@
 - [拖拽排序](https://www.npmjs.com/package/react-sortable)
 - [百度 React 组件库](https://github.com/fex-team/fit) ： 可以学习一下思路，但不建议在项目中使用
 - [redux三重境](https://zhuanlan.zhihu.com/p/26485702)
+- [从零开始写一个 React：初始化渲染](https://zhuanlan.zhihu.com/p/27312281)
+- [React 有哪些优秀实用的组件？](https://www.zhihu.com/question/39452825)
 
 ### webpack
 
@@ -68,6 +74,7 @@
 - [教你如何玩转webpack.DllPlugin](https://github.com/superpig/blog/issues/6)
 - [webpack-code-splitting-demo](https://github.com/DrakeLeung/webpack-code-splitting-demo)
 - [Webpack 大法之 Code Splitting](https://zhuanlan.zhihu.com/p/26710831)
+- [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer) : webpack 打包性能分析插件
 
 ### js学习资源
 
@@ -117,6 +124,7 @@
 ### Chrome DevTools 及扩展工具
 
 - [Coverage](https://zhuanlan.zhihu.com/p/26281581) : Chrome DevTools 代码覆盖率功能详解
+- [初探 Headless Chrome](https://zhuanlan.zhihu.com/p/27100187)
 
 ### Chrome源码系列
 
@@ -140,7 +148,12 @@
 ### 面试相关
 
 - [JavaScript 面试中常见算法问题详解](https://zhuanlan.zhihu.com/p/25308541)
+- [LintCode - 主页](http://www.lintcode.com/zh-cn)
+- [LeetCode / LintCode 答案查询](http://www.jiuzhang.com/solutions/)
 - [2017年阿里、腾讯前端实习面试总结](https://zhuanlan.zhihu.com/p/26528397)
+- [破解前端面试（80% 应聘者不及格系列）：从 闭包说起](https://zhuanlan.zhihu.com/p/25855075)
+- [破解前端面试（80% 应聘者不及格系列）：从 DOM 说起](https://zhuanlan.zhihu.com/p/26420034)
+- [破解前端面试系列（3）：如何搞定纸上代码环节？](https://zhuanlan.zhihu.com/p/27172276)
 
 ### 健身方面
 
@@ -153,3 +166,7 @@
 - [澳门美食推荐](http://m.okjike.com/messages/5934e2cfcba12400129e7bae)
 - [日本11天自由行游记，吃喝玩乐俱全的靠谱攻略](http://m.okjike.com/messages/5938a1957276aa0012da14ff)
 - [西安自由行全攻略](http://m.okjike.com/messages/59391cb314f92f00120b8b2f)
+- [新疆旅游攻略](http://m.okjike.com/messages/593c9615fb66840012229c0d)
+- [泰国清迈](http://m.okjike.com/messages/59375017ce84f80012f6e5eb)
+- [日本关西7日游记](http://m.okjike.com/messages/59408a9ddfba170012dff8db)
+- [呼伦贝尔深度游攻略](http://m.okjike.com/messages/59447f14089938001216ee68)
