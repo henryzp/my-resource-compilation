@@ -22,6 +22,9 @@
 - [前端团队 Gulp & Webpack 工作流 迁移记](https://zhuanlan.zhihu.com/p/27355765)
 - [精读前端调试技巧](https://zhuanlan.zhihu.com/p/27334352)
 - [精读 React 高阶组件](https://zhuanlan.zhihu.com/p/27434557)
+- [如何评价阿里开源的企业级 Node.js 框架 egg？](https://github.com/atian25/blog/issues/18)
+- [This 带来的困惑](https://zhuanlan.zhihu.com/p/27536677)
+- [Immutable 结构共享是如何实现的？](https://github.com/dt-fe/weekly/issues/14)
 
 ### 值得阅读的blog
 
@@ -67,6 +70,8 @@
 - [redux三重境](https://zhuanlan.zhihu.com/p/26485702)
 - [从零开始写一个 React：初始化渲染](https://zhuanlan.zhihu.com/p/27312281)
 - [React 有哪些优秀实用的组件？](https://www.zhihu.com/question/39452825)
+- [Mobx 思想的实现原理](https://github.com/ascoders/blog/issues/16)
+- [Redux-saga 中文文档](http://leonshi.com/redux-saga-in-chinese/index.html)
 
 ### webpack
 
@@ -76,7 +81,7 @@
 - [Webpack 大法之 Code Splitting](https://zhuanlan.zhihu.com/p/26710831)
 - [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer) : webpack 打包性能分析插件
 
-### js学习资源
+### js学习
 
 - [JavaScript-30 的中文练习指南](https://github.com/soyaine/JavaScript30)
 - [flow的使用入门](https://zhuanlan.zhihu.com/p/26204569)
@@ -84,27 +89,30 @@
 - [如何用 JavaScript 实现一个数组惰性求值库](https://zhuanlan.zhihu.com/p/26535479)
 - [探索JavaScript中的装饰器模式](https://zhuanlan.zhihu.com/p/26761381)
 - [10 个基于 JavaScript 的机器学习实例](https://zhuanlan.zhihu.com/p/26709518)
+- [采集用户的图像](https://developers.google.com/web/fundamentals/native-hardware/capturing-images/)
 
 ### RxJs
 
 - [RxJS 入门指引和初步应用](https://zhuanlan.zhihu.com/p/25383159)
 - [40行代码带你入门RxJS](https://zhuanlan.zhihu.com/p/26147001)
 
-### css相关
+### CSS相关
 
 - [对于CSS布局中CSS Grid Layout 和CSS Box Alignment两大模块有何看法？](https://www.zhihu.com/question/51426724/answer/150286267)
 - [欢迎你 Grid Layout](https://zhuanlan.zhihu.com/p/26259608)
 - [30 分钟学会 Flex 布局](https://zhuanlan.zhihu.com/p/25303493)
 - [CSS 自定义属性 — 基础篇](https://zhuanlan.zhihu.com/p/25714131)
 - [CSS 自定义属性 — 使用篇](https://zhuanlan.zhihu.com/p/26654544)
+- [CSS 新的长度单位 fr 你知道么？](https://zhuanlan.zhihu.com/p/27502596)
 
-### npm包
+### npm包及github项目
 
 - [minimist](https://github.com/substack/minimist) : parse argument options，譬如`node example/parse.js -a beep -b boop`
 - [fecs](https://github.com/ecomfe/fecs) : 基于 Node.js 的前端代码风格工具套件，包含对 JavaScript、CSS 与 HTML 的检查、修复及格式化。
 - [Create website with no build configuration - 创建网站无需任何配置](https://github.com/AlloyTeam/omi-cli) 
 - [Open and modern framework for building user interfaces - 开放现代的Web组件化框架](https://github.com/AlloyTeam/omi)
-
+- [一个专为移动设备打造的响应式图像查看器](https://github.com/appleple/SmartPhoto)
+- [Package your Node.js project into an executable ](https://github.com/zeit/pkg) : 这是一个 CLI 应用程序，能够将你的 Node.js 项目打包为可执行文件，并可以在尚未安装 Node 的计算机上运行它们。同时，它也是跨平台的，支持 Linux、Windows、macOS 和 freeBSD。
 
 ### Node
 
@@ -116,6 +124,7 @@
 
 - [web-ar](https://github.com/brianZeng/web-ar)
 - [react vr](https://facebook.github.io/react-vr/)
+- [初识Three.js](https://zhuanlan.zhihu.com/p/27296011)
 
 ### Python
 
@@ -170,3 +179,4 @@
 - [泰国清迈](http://m.okjike.com/messages/59375017ce84f80012f6e5eb)
 - [日本关西7日游记](http://m.okjike.com/messages/59408a9ddfba170012dff8db)
 - [呼伦贝尔深度游攻略](http://m.okjike.com/messages/59447f14089938001216ee68)
+- [香港吃喝玩乐私藏清单](https://m.okjike.com/messages/594c681920dd4a001277757b)
