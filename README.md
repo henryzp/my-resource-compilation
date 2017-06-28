@@ -72,6 +72,8 @@
 - [React 有哪些优秀实用的组件？](https://www.zhihu.com/question/39452825)
 - [Mobx 思想的实现原理](https://github.com/ascoders/blog/issues/16)
 - [Redux-saga 中文文档](http://leonshi.com/redux-saga-in-chinese/index.html)
+- [如何在非 React 项目中使用 Redux](https://zhuanlan.zhihu.com/p/27599216)
+- [动手实现 React-redux（一）：初始化工程](http://huziketang.com/books/react/lesson36)
 
 ### webpack
 
@@ -163,6 +165,7 @@
 - [破解前端面试（80% 应聘者不及格系列）：从 闭包说起](https://zhuanlan.zhihu.com/p/25855075)
 - [破解前端面试（80% 应聘者不及格系列）：从 DOM 说起](https://zhuanlan.zhihu.com/p/26420034)
 - [破解前端面试系列（3）：如何搞定纸上代码环节？](https://zhuanlan.zhihu.com/p/27172276)
+- [面试题相关](https://www.zhihu.com/question/60165921/answer/173063419)
 
 ### 健身方面
 
@@ -180,3 +183,4 @@
 - [日本关西7日游记](http://m.okjike.com/messages/59408a9ddfba170012dff8db)
 - [呼伦贝尔深度游攻略](http://m.okjike.com/messages/59447f14089938001216ee68)
 - [香港吃喝玩乐私藏清单](https://m.okjike.com/messages/594c681920dd4a001277757b)
+- [【泰国13日游记】清迈-拜县-曼谷](https://m.okjike.com/messages/59505cd0e1a5c40012d10aaa)
