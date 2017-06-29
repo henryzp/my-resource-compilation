@@ -184,3 +184,4 @@
 - [呼伦贝尔深度游攻略](http://m.okjike.com/messages/59447f14089938001216ee68)
 - [香港吃喝玩乐私藏清单](https://m.okjike.com/messages/594c681920dd4a001277757b)
 - [【泰国13日游记】清迈-拜县-曼谷](https://m.okjike.com/messages/59505cd0e1a5c40012d10aaa)
+- [5天4晚新加坡游记](https://m.okjike.com/messages/59545118c2217b00123f5ee1)
