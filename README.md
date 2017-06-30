@@ -44,6 +44,7 @@
 
 - [如何用原生 JS 实现手势解锁组件](https://www.h5jun.com/post/handlock-comp.html)
 - [移动端 Web 开发踩坑之旅](https://zhuanlan.zhihu.com/p/26141351)
+- [移动端图片上传旋转、压缩的解决方案](https://segmentfault.com/a/1190000009990033)
 
 ### Vue
 
@@ -106,6 +107,7 @@
 - [CSS 自定义属性 — 基础篇](https://zhuanlan.zhihu.com/p/25714131)
 - [CSS 自定义属性 — 使用篇](https://zhuanlan.zhihu.com/p/26654544)
 - [CSS 新的长度单位 fr 你知道么？](https://zhuanlan.zhihu.com/p/27502596)
+- [理解Critical CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651226656&idx=2&sn=61fa6d486b6790d85563782c9a801464#wechat_redirect)
 
 ### npm包及github项目
 
@@ -134,6 +136,7 @@
 
 ### Chrome DevTools 及扩展工具
 
+- [你可能还不知到的chrome开发者工具小技巧](http://www.youyong.top/article/115954ef29409)
 - [Coverage](https://zhuanlan.zhihu.com/p/26281581) : Chrome DevTools 代码覆盖率功能详解
 - [初探 Headless Chrome](https://zhuanlan.zhihu.com/p/27100187)
 
