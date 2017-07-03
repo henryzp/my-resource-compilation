@@ -25,6 +25,7 @@
 - [如何评价阿里开源的企业级 Node.js 框架 egg？](https://github.com/atian25/blog/issues/18)
 - [This 带来的困惑](https://zhuanlan.zhihu.com/p/27536677)
 - [Immutable 结构共享是如何实现的？](https://github.com/dt-fe/weekly/issues/14)
+- [深入了解 Service Worker ，看这篇就够了](https://zhuanlan.zhihu.com/p/27264234)
 
 ### 值得阅读的blog
 
@@ -45,13 +46,16 @@
 - [如何用原生 JS 实现手势解锁组件](https://www.h5jun.com/post/handlock-comp.html)
 - [移动端 Web 开发踩坑之旅](https://zhuanlan.zhihu.com/p/26141351)
 - [移动端图片上传旋转、压缩的解决方案](https://segmentfault.com/a/1190000009990033)
+- [如何造一个『为移动端而生』的日历](https://segmentfault.com/a/1190000010023542)
 
 ### Vue
 
 - [Vue源码注释版 及 Vue源码详细解析](https://github.com/Ma63d/vue-analysis)
 - [vue-admin](https://github.com/taylorchen709/vue-admin) : admin template based on vuejs2 and element
 - [音乐播放器](https://github.com/microzz/vue-music-player)
+- [notepad](https://github.com/lin-xin/notepad) : 基于vue2.0+vuex+localStorage+sass+webpack，实现一个本地存储的记事本。兼容PC端和移动端。 http://open.omwteam.com/notepad
 - [豆瓣电影wap端](https://github.com/xingbofeng/douban-movie)
+- [Vue.js 服务器端渲染指南（中文版）](https://ssr.vuejs.org/zh/)
 
 ### React
 
@@ -117,12 +121,14 @@
 - [Open and modern framework for building user interfaces - 开放现代的Web组件化框架](https://github.com/AlloyTeam/omi)
 - [一个专为移动设备打造的响应式图像查看器](https://github.com/appleple/SmartPhoto)
 - [Package your Node.js project into an executable ](https://github.com/zeit/pkg) : 这是一个 CLI 应用程序，能够将你的 Node.js 项目打包为可执行文件，并可以在尚未安装 Node 的计算机上运行它们。同时，它也是跨平台的，支持 Linux、Windows、macOS 和 freeBSD。
+- [输入任意网址” => “生成一张截图”](https://github.com/amio/pageshot)
 
 ### Node
 
 - [a short introduction to node.js](https://github.com/maxogden/art-of-node)
 - [编写 Node.js Rest API 的 10 个最佳实践](https://zhuanlan.zhihu.com/p/25506654)
 - [脚手架类的命令行工具用到了哪些技术?](https://www.zhihu.com/question/58406043/answer/159712819)
+- [node-webkit桌面应用的热更新](https://segmentfault.com/a/1190000010024108)
 
 ### AR VR相关
 
