@@ -7,6 +7,7 @@
 - [前后端分离开发模式的 mock 平台预研](https://github.com/CntChen/cntchen.github.io/issues/1) 
 - [那些年我们处理过的异步问题](https://github.com/dt-fe/weekly/issues/6)
 - [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3)
+- [antd表单性能的改进实践](https://zhuanlan.zhihu.com/p/27740483)
 - [Chinese translation of the Github Help](https://github.com/waylau/github-help)
 - [React & Npm 组件库维护经验](https://github.com/ascoders/blog/issues/5)
 - [前端监控系统落地](https://zhuanlan.zhihu.com/p/26365046?group_id=842798394819874816)
@@ -26,6 +27,9 @@
 - [This 带来的困惑](https://zhuanlan.zhihu.com/p/27536677)
 - [Immutable 结构共享是如何实现的？](https://github.com/dt-fe/weekly/issues/14)
 - [深入了解 Service Worker ，看这篇就够了](https://zhuanlan.zhihu.com/p/27264234)
+- [精读《架构设计 之 DCI》](https://github.com/dt-fe/weekly/issues/20)
+- [前端模板的原理与实现](https://segmentfault.com/a/1190000006990480)
+- [精读《TC39, ECMAScript, and the Future of JavaScript](https://github.com/dt-fe/weekly/issues/21)
 
 ### 值得阅读的blog
 
@@ -47,6 +51,7 @@
 - [移动端 Web 开发踩坑之旅](https://zhuanlan.zhihu.com/p/26141351)
 - [移动端图片上传旋转、压缩的解决方案](https://segmentfault.com/a/1190000009990033)
 - [如何造一个『为移动端而生』的日历](https://segmentfault.com/a/1190000010023542)
+- [总结移动开发实践中遇到的坑](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651552326&idx=2&sn=a96e7174cb94f9e4828f3798605b1c21#wechat_redirect)
 
 ### Vue
 
@@ -56,6 +61,7 @@
 - [notepad](https://github.com/lin-xin/notepad) : 基于vue2.0+vuex+localStorage+sass+webpack，实现一个本地存储的记事本。兼容PC端和移动端。 http://open.omwteam.com/notepad
 - [豆瓣电影wap端](https://github.com/xingbofeng/douban-movie)
 - [Vue.js 服务器端渲染指南（中文版）](https://ssr.vuejs.org/zh/)
+- [如何用Vue构建大型单页面应用](https://zhuanlan.zhihu.com/p/27213057)
 
 ### React
 
@@ -87,6 +93,7 @@
 - [webpack-code-splitting-demo](https://github.com/DrakeLeung/webpack-code-splitting-demo)
 - [Webpack 大法之 Code Splitting](https://zhuanlan.zhihu.com/p/26710831)
 - [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer) : webpack 打包性能分析插件
+- [webpack 实现持久性缓存](https://zhuanlan.zhihu.com/p/27710902)
 
 ### js学习
 
@@ -112,6 +119,7 @@
 - [CSS 自定义属性 — 使用篇](https://zhuanlan.zhihu.com/p/26654544)
 - [CSS 新的长度单位 fr 你知道么？](https://zhuanlan.zhihu.com/p/27502596)
 - [理解Critical CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651226656&idx=2&sn=61fa6d486b6790d85563782c9a801464#wechat_redirect)
+- [facebook首页的这个加载效果是怎么实现的?](https://www.zhihu.com/question/52493271/answer/141964537)
 
 ### npm包及github项目
 
@@ -145,6 +153,7 @@
 - [你可能还不知到的chrome开发者工具小技巧](http://www.youyong.top/article/115954ef29409)
 - [Coverage](https://zhuanlan.zhihu.com/p/26281581) : Chrome DevTools 代码覆盖率功能详解
 - [初探 Headless Chrome](https://zhuanlan.zhihu.com/p/27100187)
+- [使用 HeadlessChrome 做单页应用 SEO](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651552326&idx=3&sn=787811e8ee9946bc73f7f2937d452aab#wechat_redirect)
 
 ### Chrome源码系列
 
@@ -155,6 +164,10 @@
 - [从Chrome源码看JS Object的实现](http://www.renfed.com/2017/04/04/chrome-object/)
 - [从Chrome源码看JS Array的实现](http://www.renfed.com/2017/04/16/chrome-js-array/)
 
+### 图表
+
+- [关系图](https://antv.alipay.com/g6/doc)
+
 ### PWA
 
 - [PWA，准备好了吗？](https://ispwaready.toxicjohann.com/)
@@ -164,6 +177,7 @@
 ### 算法
 
 - [排序算法](http://javascript.ruanyifeng.com/library/sorting.html)
+- [我接触过的前端数据结构与算法](https://zhuanlan.zhihu.com/p/27659059)
 
 ### 面试相关
 
@@ -175,6 +189,12 @@
 - [破解前端面试（80% 应聘者不及格系列）：从 DOM 说起](https://zhuanlan.zhihu.com/p/26420034)
 - [破解前端面试系列（3）：如何搞定纸上代码环节？](https://zhuanlan.zhihu.com/p/27172276)
 - [面试题相关](https://www.zhihu.com/question/60165921/answer/173063419)
+
+### 数据分析
+
+- [如何在业余时学数据分析？](https://www.zhihu.com/question/22119753/answer/194717316)
+- [数据科学入门攻略](https://zhuanlan.zhihu.com/p/26704424)
+- [怎么培养数据分析的能力？](https://zhuanlan.zhihu.com/p/27510796)
 
 ### 健身方面
 
@@ -194,3 +214,4 @@
 - [香港吃喝玩乐私藏清单](https://m.okjike.com/messages/594c681920dd4a001277757b)
 - [【泰国13日游记】清迈-拜县-曼谷](https://m.okjike.com/messages/59505cd0e1a5c40012d10aaa)
 - [5天4晚新加坡游记](https://m.okjike.com/messages/59545118c2217b00123f5ee1)
+- [泰国普吉岛](https://m.okjike.com/messages/5962d19fbdb49e0011d082c9)
