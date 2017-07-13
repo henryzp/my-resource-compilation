@@ -86,6 +86,10 @@
 - [如何在非 React 项目中使用 Redux](https://zhuanlan.zhihu.com/p/27599216)
 - [动手实现 React-redux（一）：初始化工程](http://huziketang.com/books/react/lesson36)
 
+### Angular
+
+- [A curated list of awesome Angular 2 and Angular 4 resources](https://github.com/AngularClass/awesome-angular)
+
 ### webpack
 
 - [webpack2中文指南](https://doc.webpack-china.org/guides/get-started/)
@@ -144,9 +148,14 @@
 - [react vr](https://facebook.github.io/react-vr/)
 - [初识Three.js](https://zhuanlan.zhihu.com/p/27296011)
 
+### git命令相关
+
+- [Git 配置最佳实践](http://zcfy.cc/article/better-git-configuration-scott-nonnenberg-3350.html?t=new)
+
 ### Python
 
 - [python3学习资料](https://github.com/liuyubobobo/Book-Python-for-Everybody)
+- [那些有趣/用的 Python 库](https://segmentfault.com/a/1190000010103386)
 
 ### Chrome DevTools 及扩展工具
 
@@ -154,6 +163,7 @@
 - [Coverage](https://zhuanlan.zhihu.com/p/26281581) : Chrome DevTools 代码覆盖率功能详解
 - [初探 Headless Chrome](https://zhuanlan.zhihu.com/p/27100187)
 - [使用 HeadlessChrome 做单页应用 SEO](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651552326&idx=3&sn=787811e8ee9946bc73f7f2937d452aab#wechat_redirect)
+- [你一定要知道的 Chrome DevTool 新功能](https://mp.weixin.qq.com/s?__biz=MzA4NjE3MDg4OQ%3D%3D&mid=2650964768&idx=1&sn=36448a130ed4b3eab8463932801ba1a4#wechat_redirect)
 
 ### Chrome源码系列
 
