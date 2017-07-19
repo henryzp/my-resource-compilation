@@ -30,6 +30,7 @@
 - [精读《架构设计 之 DCI》](https://github.com/dt-fe/weekly/issues/20)
 - [前端模板的原理与实现](https://segmentfault.com/a/1190000006990480)
 - [精读《TC39, ECMAScript, and the Future of JavaScript](https://github.com/dt-fe/weekly/issues/21)
+- [精读《CSS Animations vs Web Animations API》](https://github.com/dt-fe/weekly/issues/22)
 
 ### 值得阅读的blog
 
@@ -52,6 +53,7 @@
 - [移动端图片上传旋转、压缩的解决方案](https://segmentfault.com/a/1190000009990033)
 - [如何造一个『为移动端而生』的日历](https://segmentfault.com/a/1190000010023542)
 - [总结移动开发实践中遇到的坑](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651552326&idx=2&sn=a96e7174cb94f9e4828f3798605b1c21#wechat_redirect)
+- [让 touch 系列事件触发的滚动响应更快  |  Web  |  Google Developers](http://www.zcfy.cc/article/making-touch-scrolling-fast-by-default-nbsp-nbsp-web-nbsp-nbsp-google-developers-3538.html?t=selection)
 
 ### Vue
 
@@ -85,6 +87,8 @@
 - [Redux-saga 中文文档](http://leonshi.com/redux-saga-in-chinese/index.html)
 - [如何在非 React 项目中使用 Redux](https://zhuanlan.zhihu.com/p/27599216)
 - [动手实现 React-redux（一）：初始化工程](http://huziketang.com/books/react/lesson36)
+- [Rekit 2.0 构建基于React+Redux+React-router的可扩展Web应用](https://zhuanlan.zhihu.com/p/27938754)
+- [Toolkit for building scalable web applications with React, Redux and React-router](https://github.com/supnate/rekit)
 
 ### Angular
 
@@ -183,6 +187,8 @@
 - [PWA，准备好了吗？](https://ispwaready.toxicjohann.com/)
 - [通过 PWA 我们让新用户转化率提升了 104%](https://zhuanlan.zhihu.com/p/26445223)
 - [PWA 在饿了么的实践经验](https://zhuanlan.zhihu.com/p/25800461)
+- [饿了么的 PWA 升级实践](https://zhuanlan.zhihu.com/p/27853228)
+- [JSConfCN2017 - 黄玄@演说.io](https://huangxuan.me/jsconfcn2017/#/)
 
 ### 算法
 
