@@ -195,6 +195,10 @@
 - [排序算法](http://javascript.ruanyifeng.com/library/sorting.html)
 - [我接触过的前端数据结构与算法](https://zhuanlan.zhihu.com/p/27659059)
 
+### 数学
+
+主要是先看MIT的微积分公开课，然后看托马斯微积分，最后看看同济大学的高等数学，还是不懂的话再看徐小湛的公开课，最后[哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili 3Blue1Brown](http://space.bilibili.com/88461692#!/)的教学作为补充。
+
 ### 面试相关
 
 - [JavaScript 面试中常见算法问题详解](https://zhuanlan.zhihu.com/p/25308541)
