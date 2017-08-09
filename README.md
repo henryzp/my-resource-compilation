@@ -27,10 +27,12 @@
 - [This 带来的困惑](https://zhuanlan.zhihu.com/p/27536677)
 - [Immutable 结构共享是如何实现的？](https://github.com/dt-fe/weekly/issues/14)
 - [深入了解 Service Worker ，看这篇就够了](https://zhuanlan.zhihu.com/p/27264234)
+- [Service Worker 全面进阶](https://segmentfault.com/a/1190000008050742)
 - [精读《架构设计 之 DCI》](https://github.com/dt-fe/weekly/issues/20)
 - [前端模板的原理与实现](https://segmentfault.com/a/1190000006990480)
 - [精读《TC39, ECMAScript, and the Future of JavaScript](https://github.com/dt-fe/weekly/issues/21)
 - [精读《CSS Animations vs Web Animations API》](https://github.com/dt-fe/weekly/issues/22)
+- [漫谈前端体系建设](https://zhuanlan.zhihu.com/p/28299873)
 
 ### 值得阅读的blog
 
@@ -45,6 +47,7 @@
 - [为什么你需要一个 mock server](https://github.com/ufologist/puer-mock/blob/master/why-your-need-a-mock-server.md)  
 - [hapi](https://hapijs.com/)
 - [hapi结合swagger](https://github.com/jzlxiaohei/hapi-demo/)
+- [easy mock](https://www.easy-mock.com/docs?id=openapi-gui-fan)
 
 ### 移动端
 
@@ -54,6 +57,7 @@
 - [如何造一个『为移动端而生』的日历](https://segmentfault.com/a/1190000010023542)
 - [总结移动开发实践中遇到的坑](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651552326&idx=2&sn=a96e7174cb94f9e4828f3798605b1c21#wechat_redirect)
 - [让 touch 系列事件触发的滚动响应更快  |  Web  |  Google Developers](http://www.zcfy.cc/article/making-touch-scrolling-fast-by-default-nbsp-nbsp-web-nbsp-nbsp-google-developers-3538.html?t=selection)
+- [TBS开发调试利器——TBS Studio](http://bbs.mb.qq.com/thread-1416936-1-1.html)
 
 ### Vue
 
@@ -89,6 +93,7 @@
 - [动手实现 React-redux（一）：初始化工程](http://huziketang.com/books/react/lesson36)
 - [Rekit 2.0 构建基于React+Redux+React-router的可扩展Web应用](https://zhuanlan.zhihu.com/p/27938754)
 - [Toolkit for building scalable web applications with React, Redux and React-router](https://github.com/supnate/rekit)
+- [基于redux、react函数式组件，简单、健壮、强代码组织的框架](https://github.com/homkai/deef)
 
 ### Angular
 
@@ -112,6 +117,7 @@
 - [探索JavaScript中的装饰器模式](https://zhuanlan.zhihu.com/p/26761381)
 - [10 个基于 JavaScript 的机器学习实例](https://zhuanlan.zhihu.com/p/26709518)
 - [采集用户的图像](https://developers.google.com/web/fundamentals/native-hardware/capturing-images/)
+- [【源码拾遗】axios —— 极简封装的艺术](https://zhuanlan.zhihu.com/p/28396592)
 
 ### RxJs
 
@@ -146,11 +152,16 @@
 - [脚手架类的命令行工具用到了哪些技术?](https://www.zhihu.com/question/58406043/answer/159712819)
 - [node-webkit桌面应用的热更新](https://segmentfault.com/a/1190000010024108)
 
-### AR VR相关
+### AR VR、人工智能相关
 
 - [web-ar](https://github.com/brianZeng/web-ar)
 - [react vr](https://facebook.github.io/react-vr/)
 - [初识Three.js](https://zhuanlan.zhihu.com/p/27296011)
+- [人工智能的团队里面前端工程师主要是做什么？](https://www.zhihu.com/question/56560321/answer/203249193)
+
+### XSS
+
+- [Electron hack —— 跨平台 XSS](https://zhuanlan.zhihu.com/p/28186225)
 
 ### git命令相关
 
