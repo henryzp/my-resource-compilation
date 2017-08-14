@@ -94,10 +94,19 @@
 - [Rekit 2.0 构建基于React+Redux+React-router的可扩展Web应用](https://zhuanlan.zhihu.com/p/27938754)
 - [Toolkit for building scalable web applications with React, Redux and React-router](https://github.com/supnate/rekit)
 - [基于redux、react函数式组件，简单、健壮、强代码组织的框架](https://github.com/homkai/deef)
+- [React Web 动画的 5 种创建方式，每一种都不简单](https://zhuanlan.zhihu.com/p/28500217)
+
+### React Native
+
+- [一些坑](https://www.zhihu.com/question/27852694/answer/204227131)
 
 ### Angular
 
 - [A curated list of awesome Angular 2 and Angular 4 resources](https://github.com/AngularClass/awesome-angular)
+
+### 小程序
+
+- [即拿即用！精选5款小程序原型模版](https://zhuanlan.zhihu.com/p/28374160)
 
 ### webpack
 
@@ -107,6 +116,7 @@
 - [Webpack 大法之 Code Splitting](https://zhuanlan.zhihu.com/p/26710831)
 - [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer) : webpack 打包性能分析插件
 - [webpack 实现持久性缓存](https://zhuanlan.zhihu.com/p/27710902)
+- [Webpack 3 的新功能：Scope Hoisting](https://zhuanlan.zhihu.com/p/27980441)
 
 ### js学习
 
@@ -151,6 +161,7 @@
 - [编写 Node.js Rest API 的 10 个最佳实践](https://zhuanlan.zhihu.com/p/25506654)
 - [脚手架类的命令行工具用到了哪些技术?](https://www.zhihu.com/question/58406043/answer/159712819)
 - [node-webkit桌面应用的热更新](https://segmentfault.com/a/1190000010024108)
+- [新 V8 即将推出，和 Node.js 性能变化](https://zhuanlan.zhihu.com/p/28225985)
 
 ### AR VR、人工智能相关
 
@@ -171,6 +182,7 @@
 
 - [python3学习资料](https://github.com/liuyubobobo/Book-Python-for-Everybody)
 - [那些有趣/用的 Python 库](https://segmentfault.com/a/1190000010103386)
+- [从0到1 日拱一卒](http://blog.csdn.net/leadpython?viewmode=contents)
 
 ### Chrome DevTools 及扩展工具
 
