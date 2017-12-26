@@ -33,6 +33,20 @@
 - [精读《TC39, ECMAScript, and the Future of JavaScript](https://github.com/dt-fe/weekly/issues/21)
 - [精读《CSS Animations vs Web Animations API》](https://github.com/dt-fe/weekly/issues/22)
 - [漫谈前端体系建设](https://zhuanlan.zhihu.com/p/28299873)
+- [精读 《Nestjs 文档》](https://zhuanlan.zhihu.com/p/28621374)
+- [你不知道的 React Router 4](https://zhuanlan.zhihu.com/p/28585911)
+- [San - 一个传统的MVVM组件框架](https://zhuanlan.zhihu.com/p/28779026)
+- [HTTP/2.0 相比1.0有哪些重大改进？](https://www.zhihu.com/question/34074946/answer/108588042)
+- [Understanding Modern Web Development @ JSConf China 2017 (中文)](view-source:https://speakerdeck.com/dexteryy/understanding-modern-web-development-at-jsconf-china-2017-zhong-wen)
+- [如何建立自己的知识体系？](https://www.zhihu.com/question/19591121/answer/171332950)
+- [组件库设计实战 - 复杂组件设计](https://zhuanlan.zhihu.com/p/29034015)
+- [关于 Markdown 的一些奇技淫巧](https://zhuanlan.zhihu.com/p/28987530)
+- [跨页面通信的各种姿势](https://zhuanlan.zhihu.com/p/29368435)
+- [在生产环境中直接部署 ES2015+ 代码](https://zhuanlan.zhihu.com/p/30106874)
+- [精读《2017前端性能优化备忘录》](https://zhuanlan.zhihu.com/p/30349982)
+- [精读《React Router4.0 进阶概念》](https://zhuanlan.zhihu.com/p/31178105)
+- [前端代码异常监控实战](https://zhuanlan.zhihu.com/p/31979395)
+- [把前端监控做到极致](https://zhuanlan.zhihu.com/p/32262716)
 
 ### 值得阅读的blog
 
@@ -68,6 +82,7 @@
 - [豆瓣电影wap端](https://github.com/xingbofeng/douban-movie)
 - [Vue.js 服务器端渲染指南（中文版）](https://ssr.vuejs.org/zh/)
 - [如何用Vue构建大型单页面应用](https://zhuanlan.zhihu.com/p/27213057)
+- [A Vue.js 2.0 Mobile UI From YouZan](https://github.com/youzan/vant)
 
 ### React
 
@@ -81,7 +96,7 @@
 - [react+redux+react-router实例](https://github.com/luozhihao/react-redux-demo)
 - [理解 React，但不理解 Redux，该如何通俗易懂的理解 Redux](https://www.zhihu.com/question/41312576/answer/90493435)
 - [react编辑器框架](https://github.com/facebook/draft-js)
-- [react编辑器框架插件](https://github.com/draft-js-plugins/draft-js-plugins)
+- [react编辑器框架插件](https://github.com/draft-js-plugi ns/draft-js-plugins)
 - [拖拽排序](https://www.npmjs.com/package/react-sortable)
 - [百度 React 组件库](https://github.com/fex-team/fit) ： 可以学习一下思路，但不建议在项目中使用
 - [redux三重境](https://zhuanlan.zhihu.com/p/26485702)
@@ -95,14 +110,29 @@
 - [Toolkit for building scalable web applications with React, Redux and React-router](https://github.com/supnate/rekit)
 - [基于redux、react函数式组件，简单、健壮、强代码组织的框架](https://github.com/homkai/deef)
 - [React Web 动画的 5 种创建方式，每一种都不简单](https://zhuanlan.zhihu.com/p/28500217)
+- [使用 styled-components 加速 React 开发](https://zhuanlan.zhihu.com/p/28876652)
+- [React 实现一个漂亮的 Table](https://zhuanlan.zhihu.com/p/29027477)
+- [我的状态管理方案(仿 redux )](https://zhuanlan.zhihu.com/p/30443458)
+- [Preact：一个备胎的自我修养](https://zhuanlan.zhihu.com/p/30796007)
+- [面向未来的前端数据流框架 - dob](https://zhuanlan.zhihu.com/p/30664158)
+- [ReactJS 底层揭秘系列教程](https://zhuanlan.zhihu.com/p/30664826)
+- [从前端状态管理，到响应式编程（上）](https://zhuanlan.zhihu.com/p/32245043)
 
 ### React Native
 
 - [一些坑](https://www.zhihu.com/question/27852694/answer/204227131)
 
+### mobx
+
+- [mobx和redux的比较1](https://github.com/sorrycc/blog/issues/3)
+- [mobx和redux的比较2](https://github.com/sorrycc/blog/issues/4)
+- [mobx和redux的比较3](https://github.com/sorrycc/blog/issues/5)
+
 ### Angular
 
 - [A curated list of awesome Angular 2 and Angular 4 resources](https://github.com/AngularClass/awesome-angular)
+- [ng ui库](https://github.com/NG-ZORRO/ng-zorro-antd)
+- [ng 脚手架](https://github.com/cipchk/ng-alain)
 
 ### 小程序
 
@@ -154,6 +184,7 @@
 - [一个专为移动设备打造的响应式图像查看器](https://github.com/appleple/SmartPhoto)
 - [Package your Node.js project into an executable ](https://github.com/zeit/pkg) : 这是一个 CLI 应用程序，能够将你的 Node.js 项目打包为可执行文件，并可以在尚未安装 Node 的计算机上运行它们。同时，它也是跨平台的，支持 Linux、Windows、macOS 和 freeBSD。
 - [输入任意网址” => “生成一张截图”](https://github.com/amio/pageshot)
+- [fork-ts-checker-webpack-plugin](https://www.npmjs.com/package/fork-ts-checker-webpack-plugin)
 
 ### Node
 
@@ -162,6 +193,7 @@
 - [脚手架类的命令行工具用到了哪些技术?](https://www.zhihu.com/question/58406043/answer/159712819)
 - [node-webkit桌面应用的热更新](https://segmentfault.com/a/1190000010024108)
 - [新 V8 即将推出，和 Node.js 性能变化](https://zhuanlan.zhihu.com/p/28225985)
+- [API网关](https://github.com/xitu/gold-miner/blob/master/TODO/building-an-api-gateway-using-nodejs.md)
 
 ### AR VR、人工智能相关
 
@@ -191,6 +223,7 @@
 - [初探 Headless Chrome](https://zhuanlan.zhihu.com/p/27100187)
 - [使用 HeadlessChrome 做单页应用 SEO](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651552326&idx=3&sn=787811e8ee9946bc73f7f2937d452aab#wechat_redirect)
 - [你一定要知道的 Chrome DevTool 新功能](https://mp.weixin.qq.com/s?__biz=MzA4NjE3MDg4OQ%3D%3D&mid=2650964768&idx=1&sn=36448a130ed4b3eab8463932801ba1a4#wechat_redirect)
+- [从Chrome源码看浏览器如何加载资源](https://zhuanlan.zhihu.com/p/30558018)
 
 ### Chrome源码系列
 
@@ -232,6 +265,7 @@
 - [破解前端面试（80% 应聘者不及格系列）：从 DOM 说起](https://zhuanlan.zhihu.com/p/26420034)
 - [破解前端面试系列（3）：如何搞定纸上代码环节？](https://zhuanlan.zhihu.com/p/27172276)
 - [面试题相关](https://www.zhihu.com/question/60165921/answer/173063419)
+- [javascript面试题](http://www.techug.com/post/13-javascript-program.html)
 
 ### 数据分析
 
